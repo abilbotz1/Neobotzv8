@@ -351,13 +351,4 @@ return `*MAIN MENU*
  • ${prefix}gsmarena
  • ${prefix}happymod
  • ${prefix}quotesanime`
- 
- thanks to
-• Allah
-• orang tua
-• penyemangat hidup (gada🗿)
-• lexxy official
-• api layanan 
-• RielGansOfc
-• penyedia module
 }
